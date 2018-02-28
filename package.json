@@ -1,0 +1,21 @@
+{
+  "name": "war-js-game",
+  "version": "0.0.1",
+  "description": "Strategy based game between players",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spragalas",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/cron": "^1.2.1",
+    "@types/uuid": "^3.4.3",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "cron": "^1.3.0",
+    "lock": "^1.1.0",
+    "uuid": "^3.2.1"
+  }
+}
